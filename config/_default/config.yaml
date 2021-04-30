@@ -5,7 +5,7 @@
 
 title: Lingzhi Zhao # Website name
 baseurl: 'https://zhaolingzhi.netlify.app/' # Website URL
-copyright: '' # Footer text, e.g. '© {year} Me'
+copyright: '© 2021 Lingzhi Zhao.' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE
@@ -74,3 +74,4 @@ related:
       weight: 100
     - name: categories
       weight: 70
+

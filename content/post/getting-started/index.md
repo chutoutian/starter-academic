@@ -1,5 +1,5 @@
 ---
-title: Welcome to Zhao's Homepage
+title: Hello World !
 subtitle: 
 
 # Summary for listings and search engines
@@ -46,5 +46,7 @@ gallery_item:
 
 
 
-Hi, It's my first personal web, which is powered by [**Wowchemy**](https://github.com/wowchemy/wowchemy-hugo-modules).
+Hi, it's my first personal web, which is powered by [**Wowchemy**](https://github.com/wowchemy/wowchemy-hugo-modules).
+
+{{< gallery album="ed" >}}
 

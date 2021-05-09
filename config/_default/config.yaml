@@ -28,7 +28,8 @@ module:
 ############################
 ## ADVANCED
 ############################
-
+relativeURLs: true
+uglyURLs: true
 enableGitInfo: false
 summaryLength: 30
 paginate: 10

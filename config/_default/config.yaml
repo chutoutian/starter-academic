@@ -5,7 +5,7 @@
 
 title: Lingzhi Zhao # Website name
 baseurl: 'https://chutoutian.github.io/' # Website URL
-copyright: '© 2021 Lingzhi Zhao.' # Footer text, e.g. '© {year} Me'
+copyright: '' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE

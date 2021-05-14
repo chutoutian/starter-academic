@@ -121,3 +121,5 @@ cms:
 icon:
   pack:
     ai: true
+profile:
+  false
